@@ -14,7 +14,7 @@ The purpose of this analysis is to determine trends in successful campaigns via 
 
 The purpose of this analysis was to visualize campaign outcomes based on launch date. For this analysis we first created a new column within our kickstarter worksheet titled "Year" which extracted the year the given campaign was created. We then created a pivot table from the kickstarter worksheet in a new worksheet titled "Theater Outcomes by Launch Data". We then used this pivot chart to specifically visualize all theater campaigns. This visualization helped us see how many were launched during each month, and how many were canceled, failed or successful based on that month as well as totals. We further clarified this by using the pivot chart to create a line graph as a more intuitive way to visualize the relationship between outcomes and launch month for Louise.
 
-![Outcomes based on Launch date Graph Image]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/MichaelG-B/Kickstarter-analysis/blob/247f54ddc71b734870613c5cf00b34e988699a89/Theater_Outcomes_VS_Launch.png))
+![Outcomes based on Launch date Graph Image](https://github.com/MichaelG-B/Kickstarter-analysis/blob/247f54ddc71b734870613c5cf00b34e988699a89/Theater_Outcomes_VS_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
